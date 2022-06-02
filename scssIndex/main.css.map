@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CAAC;EACE,SAAS,EAAE,IAAI;CAAG;;AACtB,AACQ,SADC,CACD,GAAG,CAAC;EACI,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACU;;ADLtC,AAAA,OAAO,CAAC;EACJ,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,IAAI;CAAG",
+    "sources": [
+        "main.sass",
+        "icons.sass"
+    ],
+    "names": [],
+    "file": "main.css"
+}

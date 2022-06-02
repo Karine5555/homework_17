@@ -1,0 +1,27 @@
+i {
+  font-size: 20px;
+}
+
+.iconsDiv {
+  display: sticky;
+}
+
+.iconsDiv div {
+  width: 50px;
+  height: 50px;
+  color: #FFFFFF;
+  border: 1px solid #000;
+}
+
+.iconsDiv div:nth-child(1) {
+  background-color: #3F5997;
+}
+
+.iconsDiv div:nth-child(2) {
+  background-color: #7AACEE;
+}
+
+.iconsDiv div:nth-child(3) {
+  background-color: #C94A39;
+}
+/*# sourceMappingURL=icons.css.map */

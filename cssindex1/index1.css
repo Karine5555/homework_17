@@ -1,0 +1,38 @@
+section {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+section .sec1 {
+  width: 10%;
+  padding: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+section .sec1 ul {
+  background-color: #1E1E1E;
+}
+
+section .sec1 ul li {
+  color: #6E7F80;
+}
+
+section .sec1 ul li i {
+  font-size: 20px;
+  margin: 7px;
+}
+
+section .sec2 {
+  width: 90%;
+  margin: 15px;
+}
+
+section .sec2 h1 {
+  margin-bottom: 15px;
+  font-weight: 800;
+}
+/*# sourceMappingURL=index1.css.map */
